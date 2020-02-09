@@ -13361,7 +13361,7 @@ module.exports = {"name":"amplitudejs","version":"5.0.3","description":"A JavaSc
 /******/ ]);
 });
 //# sourceMappingURL=amplitude.js.map
-
+/*
 var songurl = raw
 var songname = fileName
 
@@ -13372,4 +13372,4 @@ Amplitude.init({
 				"url": songurl
 			}
 		]
-	});
+	});*/
