@@ -13361,3 +13361,12 @@ module.exports = {"name":"amplitudejs","version":"5.0.3","description":"A JavaSc
 /******/ ]);
 });
 //# sourceMappingURL=amplitude.js.map
+
+Amplitude.init({
+		"songs": [
+			{
+				"name": fileName,
+				"url": raw
+			}
+		]
+	});
