@@ -333,9 +333,9 @@ div#control-container {
       cursor: pointer;
       float: right; }
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-off {
-        background: url("/amplitude/https://thsconline.github.io/amplitude/images/shuffle-off.svg"); }
+        background: url("https://thsconline.github.io/amplitude/images/shuffle-off.svg"); }
       div#control-container div#repeat-container div#shuffle.amplitude-shuffle-on {
-        background: url("/amplitude/https://thsconline.github.io/amplitude/images/shuffle-on.svg"); }
+        background: url("https://thsconline.github.io/amplitude/images/shuffle-on.svg"); }
   @media all and (-ms-high-contrast: none) {
     div#control-container *::-ms-backdrop, div#control-container div#control-container {
       margin-top: 40px;
